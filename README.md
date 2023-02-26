@@ -1,4 +1,4 @@
-## 👋 Hi~ <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> This is Dyfcalid ! [![GitHub Dyfcalid](https://img.shields.io/github/stars/dyfcalid?affiliations=OWNER%2CCOLLABORATOR&style=social)](https://github.com/dyfcalid) [![GitHub Dyfcalid](https://img.shields.io/github/followers/dyfcalid?label=followers&style=social)](https://github.com/dyfcalid) 
+## 👋 Hi~ <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> This is Dyfcalid ! [![GitHub Dyfcalid](https://img.shields.io/github/stars/dyfcalid?affiliations=OWNER%2CCOLLABORATOR&style=social)](https://github.com/dyfcalid) [![GitHub Dyfcalid](https://img.shields.io/github/followers/dyfcalid?label=followers&style=social)](https://github.com/dyfcalid)
 
 
   	
@@ -21,6 +21,9 @@
 </a>  
 <a href="https://github.com/dyfcalid">
   <img align="center" src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white">
+</a> 
+<a href="https://scholar.google.com/citations?view_op=list_works&hl=en&user=Pig6X6MAAAAJ">
+  <img align="center" src="https://img.shields.io/badge/Google_Scholar-4285F4?style=for-the-badge&logo=google-scholar&logoColor=white">
 </a> 
 </p>
 
@@ -47,8 +50,9 @@
 
 - ⚡ Looking for Ph.D. opportunities ...
 
-- 📫 Contact me with [email](mailto:zhengzehan@tongji.edu.cn)  
+- 📫 Contact me with [Email](mailto:zhengzehan@tongji.edu.cn)  
 
+- 🔍 More details in [Academic Page](https://dyfcalid.github.io/) (🚧work in progress...)
   
 
 <p align="center">  
