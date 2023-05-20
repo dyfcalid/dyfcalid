@@ -52,7 +52,7 @@
 
 - 📫 Contact me with [Email](mailto:zhengzehan@tongji.edu.cn)  
 
-- 🔍 More details in [Academic Page](https://dyfcalid.github.io/) (🚧work in progress...)
+- 🔍 More details in [Academic Page](https://dyfcalid.github.io/) (📣: welcome!)
   
 
 <p align="center">  
@@ -61,6 +61,25 @@
 </a>
 <a href="https://github.com/dyfcalid">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dyfcalid&layout=compact&langs_count=4" />
+</a>
+</p>
+
+<br>
+<p align="center">  
+<a href="https://github.com/ispc-lab/NeuralPCI">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ispc-lab&repo=NeuralPCI&theme=buefy&title_color=ff8f1c&icon_color=ff8f1c" alt="NeuralPCI" />
+</a>
+&nbsp
+<a href="https://github.com/OpenDriveLab/PersFormer_3DLane">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=OpenDriveLab&repo=PersFormer_3DLane&theme=buefy" alt="PersFormer"/>
+</a>
+<br>&nbsp<br>
+<a href="https://github.com/dyfcalid/CameraCalibration">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=dyfcalid&repo=CameraCalibration&theme=buefy" alt="CameraCalibration"/>
+</a>
+&nbsp
+<a href="https://github.com/dyfcalid/STM32-car-MPU6050-Bluetooth-Ultrasonic">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=dyfcalid&repo=STM32-car-MPU6050-Bluetooth-Ultrasonic&theme=buefy" alt="STM32-car"/>
 </a>
 </p>
 
@@ -74,9 +93,14 @@
 
 <h4 align="center"> Visitor's count :eyes: Thank you for visiting!</h4>  
 
-<p align="center">
+<!-- <p align="center">
 <a href="https://github.com/dyfcalid">
   <img align="center" src="https://steins-gate-visitor-count.greenhandatsjtu.repl.co/{dyfcalid}" alt="visitors" height="150"/>
 </a>
-</p>
+</p> -->
 
+<p align="center">
+<a href="https://github.com/dyfcalid">
+  <img align="center" src="https://komarev.com/ghpvc/?username=dyfcalid&label=Profile%20views&color=orange&style=for-the-badge" alt="visitors" height="30"/>
+</a>
+</p>
