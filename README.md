@@ -67,7 +67,7 @@
 <br>
 <p align="center">  
 <a href="https://github.com/ispc-lab/NeuralPCI">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ispc-lab&repo=NeuralPCI&theme=buefy&title_color=ff8f1c&icon_color=ff8f1c" alt="NeuralPCI" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ispc-lab&repo=NeuralPCI&theme=buefy&title_color=ff8f1b&icon_color=ff8f1c" alt="NeuralPCI" />
 </a>
 &nbsp
 <a href="https://github.com/OpenDriveLab/PersFormer_3DLane">
