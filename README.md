@@ -57,29 +57,29 @@
 
 <p align="center">  
 <a href="https://github.com/dyfcalid">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=dyfcalid&include_all_commits=true&show_icons=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&hide=prs" />
+  <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api?username=dyfcalid&include_all_commits=true&show_icons=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&hide=prs" />
 </a>
 <a href="https://github.com/dyfcalid">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dyfcalid&layout=compact&langs_count=4" />
+  <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=dyfcalid&layout=compact&langs_count=4" />
 </a>
 </p>
 
 <br>
 <p align="center">  
 <a href="https://github.com/ispc-lab/NeuralPCI">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ispc-lab&repo=NeuralPCI&theme=buefy&title_color=ff8f1b&icon_color=ff8f1c" alt="NeuralPCI" />
+  <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=ispc-lab&repo=NeuralPCI&theme=buefy&title_color=ff8f1b&icon_color=ff8f1c" alt="NeuralPCI" />
 </a>
 &nbsp
 <a href="https://github.com/OpenDriveLab/PersFormer_3DLane">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=OpenDriveLab&repo=PersFormer_3DLane&theme=buefy" alt="PersFormer"/>
+  <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=OpenDriveLab&repo=PersFormer_3DLane&theme=buefy" alt="PersFormer"/>
 </a>
 <br>&nbsp<br>
 <a href="https://github.com/dyfcalid/CameraCalibration">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=dyfcalid&repo=CameraCalibration&theme=buefy" alt="CameraCalibration"/>
+  <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=dyfcalid&repo=CameraCalibration&theme=buefy" alt="CameraCalibration"/>
 </a>
 &nbsp
 <a href="https://github.com/dyfcalid/STM32-car-MPU6050-Bluetooth-Ultrasonic">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=dyfcalid&repo=STM32-car-MPU6050-Bluetooth-Ultrasonic&theme=buefy" alt="STM32-car"/>
+  <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=dyfcalid&repo=STM32-car-MPU6050-Bluetooth-Ultrasonic&theme=buefy" alt="STM32-car"/>
 </a>
 </p>
 
