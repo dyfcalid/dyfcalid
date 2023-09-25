@@ -1,4 +1,4 @@
-## 👋 Hi~ <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> This is Dyfcalid ! [![GitHub Dyfcalid](https://img.shields.io/github/stars/dyfcalid?affiliations=OWNER%2CCOLLABORATOR&style=social)](https://github.com/dyfcalid) [![GitHub Dyfcalid](https://img.shields.io/github/followers/dyfcalid?label=followers&style=social)](https://github.com/dyfcalid)
+## 👋 Hi~ This is Dyfcalid ! [![GitHub Dyfcalid](https://img.shields.io/github/stars/dyfcalid?affiliations=OWNER%2CCOLLABORATOR&style=social)](https://github.com/dyfcalid) [![GitHub Dyfcalid](https://img.shields.io/github/followers/dyfcalid?label=followers&style=social)](https://github.com/dyfcalid) <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/>
 
 
   	
