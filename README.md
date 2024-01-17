@@ -44,15 +44,15 @@
 <h3 align="left"> Nice to see you and welcome to my page !</h3> 
 
 
-- 🔭 I’m **Zehan Zheng**, currently a first-year M.Sc. student at Tongji University in Shanghai.  
+- 🔭 I’m **Zehan Zheng**, currently a 2nd-year M.S.E. student at Tongji University in Shanghai.  
 
-- 🌱 I’m interested in 3D computer vision and deep learning applied to autonomous driving perception.
+- 🌱 I’m interested in 3D computer vision, dynamic reconstruction and autonomous driving perception.
 
-- ⚡ Looking for Ph.D. opportunities ...
+- ⚡ Looking for research internship and **Ph.D. (2025 fall)** opportunities !
 
-- 📫 Contact me with [Email](mailto:zhengzehan@tongji.edu.cn)  
+- 📫 Feel free to drop me an [Email](mailto:zhengzehan@tongji.edu.cn)  
 
-- 🔍 More details in [Academic Page](https://dyfcalid.github.io/) (📣: welcome!)
+- 🔍 More details in my [Academic Page](https://dyfcalid.github.io/) (📣: welcome!)
   
 
 <p align="center">  
