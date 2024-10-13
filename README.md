@@ -46,9 +46,9 @@
 
 - 🔭 I’m **Zehan Zheng**, currently a 2nd-year M.S.E. student at Tongji University in Shanghai.  
 
-- 🌱 I’m interested in 3D computer vision, dynamic reconstruction and autonomous driving perception.
+- 🌱 I’m interested in 3D computer vision, including dynamic reconstruction, generative models and autonomous driving.
 
-- ⚡ Looking for research internship and **Ph.D. (Fall 2025)** opportunities !
+- ⚡ Looking for research internship and **Ph.D. (Fall 2025)** opportunities!
 
 - 📫 Feel free to drop me an [Email](mailto:zhengzehan@tongji.edu.cn)  
 
@@ -59,9 +59,9 @@
 <a href="https://github.com/dyfcalid">
   <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api?username=dyfcalid&include_all_commits=true&show_icons=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&hide=prs" />
 </a>
-<a href="https://github.com/dyfcalid">
+<!-- <a href="https://github.com/dyfcalid">
   <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=dyfcalid&layout=compact&langs_count=4" />
-</a>
+</a> -->
 </p>
 
 
