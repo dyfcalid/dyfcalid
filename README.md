@@ -44,11 +44,11 @@
 <h3 align="left"> Nice to see you and welcome to my page !</h3> 
 
 
-- 🔭 I’m **Zehan Zheng**, currently a 2nd-year M.S.E. student at Tongji University in Shanghai.  
+- 🔭 I’m **Zehan Zheng**, currently a first-year CS Ph.D. student at Johns Hopkins University.  
 
-- 🌱 I’m interested in 3D computer vision, including dynamic reconstruction, generative models and autonomous driving.
+- 🌱 I’m interested in 3D/4D computer vision, including dynamic reconstruction, generative models and autonomous driving.
 
-- ⚡ Looking for research internship and **Ph.D. (Fall 2025)** opportunities!
+- ⚡ Looking for research internship and collaboration opportunities!
 
 - 📫 Feel free to drop me an [Email](mailto:zhengzehan@tongji.edu.cn)  
 
