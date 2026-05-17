@@ -46,11 +46,11 @@
 
 - 🔭 I’m **Zehan Zheng**, currently a first-year CS Ph.D. student at Johns Hopkins University.  
 
-- 🌱 I’m interested in 3D/4D computer vision, including dynamic reconstruction, generative models and autonomous driving.
+- 🌱 I’m interested in 3D/4D Computer Vision, including Reconstruction/Generation, World Models, VLMs and Embodied AI.
 
 - ⚡ Looking for research internship and collaboration opportunities!
 
-- 📫 Feel free to drop me an [Email](mailto:zhengzehan@tongji.edu.cn)  
+- 📫 Feel free to drop me an [Email](mailto:zzheng62@jh.edu)  
 
 - 🔍 More details in my [Academic Page](https://dyfcalid.github.io/) (📣: welcome!)
   
@@ -68,23 +68,23 @@
 <br>
 <p align="center">  
 <a href="https://github.com/ispc-lab/LiDAR4D">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ispc-lab&repo=LiDAR4D&theme=buefy&title_color=ff8f1b&icon_color=ff8f1c" alt="LiDAR4D"/>
+  <img align="center" src="https://github-stats-extended.vercel.app/api/pin/?username=ispc-lab&repo=LiDAR4D&theme=buefy&title_color=ff8f1b&icon_color=ff8f1c" alt="LiDAR4D"/>
 </a>
 &nbsp
 <a href="https://github.com/ispc-lab/NeuralPCI">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ispc-lab&repo=NeuralPCI&theme=buefy&title_color=ff8f1b&icon_color=ff8f1c" alt="NeuralPCI"/>
+  <img align="center" src="https://github-stats-extended.vercel.app/api/pin/?username=ispc-lab&repo=NeuralPCI&theme=buefy&title_color=ff8f1b&icon_color=ff8f1c" alt="NeuralPCI"/>
 </a>
 <br>&nbsp<br>
 <a href="https://github.com/OpenDriveLab/PersFormer_3DLane">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=OpenDriveLab&repo=PersFormer_3DLane&theme=buefy" alt="PersFormer"/>
+  <img align="center" src="https://github-stats-extended.vercel.app/api/pin/?username=OpenDriveLab&repo=PersFormer_3DLane&theme=buefy" alt="PersFormer"/>
 </a>
 &nbsp
 <a href="https://github.com/dyfcalid/CameraCalibration">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=dyfcalid&repo=CameraCalibration&theme=buefy" alt="CameraCalibration"/>
+  <img align="center" src="https://github-stats-extended.vercel.app/api/pin/?username=dyfcalid&repo=CameraCalibration&theme=buefy" alt="CameraCalibration"/>
 </a>
 <br>
 <!-- <a href="https://github.com/dyfcalid/STM32-car-MPU6050-Bluetooth-Ultrasonic">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=dyfcalid&repo=STM32-car-MPU6050-Bluetooth-Ultrasonic&theme=buefy" alt="STM32-car"/>
+  <img align="center" src="https://github-stats-extended.vercel.app/api/pin/?username=dyfcalid&repo=STM32-car-MPU6050-Bluetooth-Ultrasonic&theme=buefy" alt="STM32-car"/>
 </a>
 </p> -->
 
